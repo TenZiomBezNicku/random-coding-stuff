@@ -1,0 +1,1 @@
+bash asm/build.sh
